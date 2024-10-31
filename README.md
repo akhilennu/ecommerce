@@ -2,6 +2,7 @@
 
 ## 1. Spring Validation (User Resource, UserDTO)
 @Valid to check if the input is valid (added in resource input validation)
+<br />
 @Size, @NotBlank @Email etc., for adding validations
 
 ## 2. springdoc-openapi (Swagger UI) (Introduced in May 2024)

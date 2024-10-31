@@ -5,7 +5,7 @@
 <br />
 @Size, @NotBlank @Email etc., for adding validations
 
-## 2. springdoc-openapi (Swagger UI) (Introduced in May 2024)
+## 2. springdoc-openapi (Swagger UI) (Introduced in May 2024) [documentation](https://springdoc.org/#getting-started)
 ### Add the below snippet in pom.xml
 ```
 <dependency> 
